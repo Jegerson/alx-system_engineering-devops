@@ -1,1 +1,2 @@
-#!/bin/bash \ ngreg -A 3 root /etc/passwd
+#!/bin/bash
+ngreg -A 3 root /etc/passwd \
